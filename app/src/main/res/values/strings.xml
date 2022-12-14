@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="kategoriArray">
+        <item>Penting Mendesak</item>
+        <item>Tidak Penting Mendesak</item>
+        <item>Penting Tidak Mendesak</item>
+        <item>Tidak Penting Tidak Mendesak</item>
+    </string-array>
+    <string name="editTugas"><font color="#5F33E1">Edit Tugas</font></string>
+    <string name="hapusTugas"><font color="#5F33E1">Hapus Tugas</font></string>
+
+</resources>
